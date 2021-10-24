@@ -1,0 +1,53 @@
+body{
+    background: url(jrd.jpeg);
+}
+.jaystatzwrld{
+    background: url(y2k.jpg);
+    height: 300px;
+    min-width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.biography{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    color: white;
+    padding: 15px;
+    margin: 30px;
+    border: 3px solid lightblue;
+    float: left;
+}
+.jPic{
+    height: 120px;
+}
+.song{
+    background: url(Windows-Media-Player-6.jpg);
+    background-size: contain;
+    height: 300px;
+    min-width: 300px;
+    background-repeat: no-repeat;
+    display: flex;
+    margin: 30px;
+}
+.postOne{
+    background-color: black;
+    height: 430px;
+    width: 300px;
+    color: white;
+    padding: 15px;
+    margin: 60px 30px 30px;
+    border: 3px solid lightblue;
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 30px;
+}
+h1{
+    color: gold;
+}

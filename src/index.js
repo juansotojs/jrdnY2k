@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import pic from './download (1).jpeg';
+//import pic from './download (1).jpeg';
 
 const App = () => {
   return <>
@@ -11,7 +11,7 @@ const App = () => {
     <p>Last Login: Today</p>
     <p>Location:</p>
     <p>The Bay</p>
-    <img src={pic} className='jPic'/>
+    {/*<img src={pic} className='jPic'/>*/}
   </div>
   <div className="song"></div>
   <div className="postOne">

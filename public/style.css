@@ -1,8 +1,8 @@
 body{
-    background: url(jrd.jpeg);
+    background: url(pics/jrd.jpeg);
 }
 .jaystatzwrld{
-    background: url(y2k.jpg);
+    background: url(pics/y2k.jpg);
     height: 300px;
     min-width: 300px;
     background-size: contain;
@@ -26,7 +26,7 @@ body{
     height: 120px;
 }
 .song{
-    background: url(Windows-Media-Player-6.jpg);
+    background: url(pics/Windows-Media-Player-6.jpg);
     background-size: contain;
     height: 300px;
     min-width: 300px;
